@@ -1,0 +1,16 @@
+{
+  "name": "nitrosend",
+  "description": "Nitrosend's official Claude plugins for reliable email delivery and lifecycle marketing.",
+  "owner": {
+    "name": "Nitrosend",
+    "email": "contact@nitrosend.com",
+    "url": "https://nitrosend.com"
+  },
+  "plugins": [
+    {
+      "name": "nitrosend",
+      "source": "./",
+      "description": "AI-native email marketing: compose newsletters, build flows, manage contacts, and send campaigns through the Nitrosend MCP with OAuth."
+    }
+  ]
+}
